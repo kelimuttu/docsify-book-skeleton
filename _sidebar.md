@@ -1,15 +1,19 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/home.md "Book name")
+* [Book intro](/home.md "Book title - intro")
 
-* [Foreword](/en/foreword.md "Foreword")
+* [Table of content](/en/toc.md "Book title - toc ")
 
-* [Section 1](/en/1.md "Section 1")
+* [Foreword](/en/foreword.md "Book title - Foreword")
 
-* [Section 2](/en/2.md "Section 2")
+* [Section 1](/en/1.md "Book title - Section 1")
 
-* [Section 3](/en/3.md "Section 3")
+* [Section 2](/en/2.md "Book title - Section 2")
 
-* [Acknolwledgements](/en/acknolwledgements.md "Acknolwledgements")
+* [Section 3](/en/3.md "Book title - Section 3")
 
-* [Contribute](/en/contribute.md "Contribute to this book")
+* [Acknowledgements](/en/Acknowledgements.md "Book title - Acknowledgements")
+
+* [References](/en/references.md "Book title - Reference")
+
+* [About the author](/en/author.md "Book title - About the author")

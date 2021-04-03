@@ -1,15 +1,19 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/id/home.md "Book name")
+* [Intro](/id/home.md "Judul buku - Intro")
 
-* [Foreword](/id/foreword.md "Foreword")
+* [Daftar isi](/id/toc.md "Judul buku - Daftar isi")
 
-* [Section 1](/id/1.md "Section 1")
+* [Pengantar](/id/foreword.md "Judul buku - Pengantar")
 
-* [Section 2](/id/2.md "Section 2")
+* [Bagian 1](/id/1.md "Judul buku - Bagian 1")
 
-* [Section 3](/id/3.md "Section 3")
+* [Bagian 2](/id/2.md "Judul buku - Bagian 1")
 
-* [Acknolwledgements](/id/acknolwledgements.md "Acknolwledgements")
+* [Bagian 3](/id/3.md "Judul buku - Bagian 1")
 
-* [Contribute](/id/contribute.md "Contribute to this book")
+* [Ucapan terima kasih](/id/acknolwledgements.md "Judul buku - Ucapan terima kasih")
+
+* [Referensi](/id/references.md "Judul buku - Referensi")
+
+* [Tentang penulis](/en/author.md "Judul buku - Tentang penulis")

@@ -5,7 +5,7 @@
 
 # Book Title <small>by Author</small>
 
-Book skeleton using Docsify
+Book skeleton based on [Docsify](https://docsify.js.org/)
 
 [GitHub](https://github.com/kelimuttu/docsify-book-skeleton)
 [Read the book](#main)

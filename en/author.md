@@ -1,7 +1,5 @@
-# Kata pengantar 
+# Author's name 
 
-> Quote
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed pulvinar tempus eros facilisis sodales. Sed viverra nibh vel felis molestie, nec ornare mauris congue. Proin id convallis nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam dictum libero diam, at pellentesque risus mattis a. Aliquam est velit, mattis nec dolor in, vehicula aliquet ligula. Aliquam sed lobortis odio, nec aliquam dolor.
+![logo](../_media/author.svg ':size=20%')
 
 Proin mauris neque, placerat nec tincidunt ac, cursus id nulla. Nam bibendum nunc id lacus vehicula consectetur. Vivamus ut neque nunc. Etiam in justo convallis, vehicula sem ut, euismod dui. Praesent porttitor tellus ut vestibulum pharetra. Aenean sed dui egestas, pretium ante vel, feugiat justo. Integer vehicula vulputate erat sed viverra. Cras a mi dolor. Vivamus condimentum dignissim quam, ac congue ipsum lobortis at. Proin ornare non quam quis lacinia. Vivamus et velit pretium quam semper ornare eget id quam. Mauris a lorem volutpat, ultrices mi id, ullamcorper velit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sit amet maximus nisl. Morbi imperdiet dui lacus, sed sodales urna semper vitae. Phasellus at rutrum orci. 
