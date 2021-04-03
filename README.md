@@ -1,6 +1,10 @@
 # What is Docsify book skeleton?
 
-> This is the skeleton for an online book made of Docsify.
+> Template for building an online book with [docsify](https://docsify.js.org/).
+
+# Configuration
+
+Read [docsify](https://docsify.js.org/) documentation to learn more about how to configure. 
 
 ## Credits
 * [Docsify](https://docsify.js.org/#/)
