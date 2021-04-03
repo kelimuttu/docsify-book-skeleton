@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [Intro](/id/home.md "Judul buku - Intro")
+* [Perkenalan](/id/home.md "Judul buku - Perkenalan")
 
 * [Daftar isi](/id/toc.md "Judul buku - Daftar isi")
 
@@ -12,8 +12,8 @@
 
 * [Bagian 3](/id/3.md "Judul buku - Bagian 1")
 
-* [Ucapan terima kasih](/id/acknolwledgements.md "Judul buku - Ucapan terima kasih")
+* [Ucapan terima kasih](/id/acknowledgements.md "Judul buku - Ucapan terima kasih")
 
 * [Referensi](/id/references.md "Judul buku - Referensi")
 
-* [Tentang penulis](/en/author.md "Judul buku - Tentang penulis")
+* [Tentang penulis](/id/author.md "Judul buku - Tentang penulis")

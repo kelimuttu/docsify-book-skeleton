@@ -12,7 +12,7 @@
 
 * [Section 3](/en/3.md "Book title - Section 3")
 
-* [Acknowledgements](/en/Acknowledgements.md "Book title - Acknowledgements")
+* [Acknowledgements](/en/acknowledgements.md "Book title - Acknowledgements")
 
 * [References](/en/references.md "Book title - Reference")
 
