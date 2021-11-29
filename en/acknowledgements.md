@@ -1,6 +1,6 @@
 # Acknowledgements 
 
-> An awesome project.
+> Lorem ipsum dolor sit amet. 
 
 Etiam dapibus tellus eget varius lobortis. Pellentesque nibh magna, consectetur sed nulla ullamcorper, posuere placerat odio. Ut pulvinar nibh a molestie pulvinar. Suspendisse vehicula risus ipsum, sed sodales lectus aliquam eget. Nulla odio lectus, scelerisque et justo quis, tristique auctor magna. Ut eu lectus venenatis, interdum libero non, pellentesque felis. Integer sit amet ante non ligula commodo feugiat in id mi. In at purus blandit, posuere ligula a, tincidunt metus. Vivamus id metus libero. Sed vulputate viverra mi, non interdum nunc fringilla posuere. Vivamus id ex sed neque rutrum dapibus.
 

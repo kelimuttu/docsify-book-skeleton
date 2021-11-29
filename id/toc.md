@@ -1,3 +1,3 @@
 # Daftar isi
 
-> Is this necessary?
+> Apakah kita perlu TOC?
